@@ -29,8 +29,6 @@ Updated Read.me
 
 To help with refactoring the code, please ask for a clone of the repo, make the changes along with comments and for overview and permission to push.
 
-![imageofsite](./images/siteaboutme.png)
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 MIT License
 Copyright (c) [2020] [(MB inc.) Georgia Tech Bootcamp Project]
