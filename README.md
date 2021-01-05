@@ -3,18 +3,19 @@
 ## Purpose
 
 This Repository is being used to develop and display the portfolio of Marquez Brown.
-Since he is currently enrolled in Georgia Tech's Bootcamp Program, this is temporary and is being use to showcase coding practices.  Some challenges that were found were in learning how to customize bootstrap components, sizing and placement of elements as well as making sure the links were functional.  
+Since he is currently enrolled in Georgia Tech's Bootcamp Program, this is temporary and is being used to be improved upon gradually over time.
 
 Link of working product
-https://marquez-brown.github.io/mb-portfolio/
+https://marquez-brown.github.io/updated-portfolio1/
 
 Link to Github Repository
-https://github.com/Marquez-Brown/mb-portfolio
+https://github.com/Marquez-Brown/updated-portfolio1
 
+![Screenshot](./Images/updated-portfolio.png)
 ## Usage
 
 - List Install a code editor such as Sublime text, Atomic text editor, or Visual Studio.
-- Download the Github repository at https://github.com/Marquez-Brown/mb-portfolio
+- Download the Github repository at https://github.com/Marquez-Brown/updated-portfolio1
 - Edit the files as you see fit in the code editor of your choice.  
 - You may also view the code in the chrome dev tools if using the chrome browser.
 
