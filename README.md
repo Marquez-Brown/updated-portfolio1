@@ -1,4 +1,4 @@
-# MB-Portfolio Readme
+# updated-portfolio1 Readme
 
 ## Purpose
 
@@ -11,7 +11,7 @@ https://marquez-brown.github.io/updated-portfolio1/
 Link to Github Repository
 https://github.com/Marquez-Brown/updated-portfolio1
 
-![Screenshot](./Images/updated-portfolio.png)
+![Screenshot](./Images/updatedport.png)
 ## Usage
 
 - List Install a code editor such as Sublime text, Atomic text editor, or Visual Studio.
