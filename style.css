@@ -1,32 +1,35 @@
-body {background-image: url(./Assets/Images/lightgreen.jpg) ;
-}
-img {
-    height: 350px;
-    width: 350px;
-    
-}
-#profpic {float: left;
-    margin-right: 5%;
-    margin-left: 3%;
-    height: 275px;
-    width: 200px;
-    border-radius: 50%;
-}
-h1, h2 {
-    font-family: 'Playfair Display', serif;
-    
-}
-
-#name {
-    font-family: 'Playfair Display', serif;
+body {
+  background-image: url(./Images/lightgreen.jpg);
 }
 footer {
-    border-top: 5px solid rgb(23,162,184);
+  border-top: 5px solid rgb(23, 162, 184);
+}
+h1,
+h2 {
+  font-family: "Playfair Display", serif;
+}
+img {
+  height: 350px;
+  width: 350px;
+}
+p {
+  font-family: "Cormorant Garamond", serif;
+  font-size: xx-large;
 }
 
+#profpic {
+  float: left;
+  margin-right: 5%;
+  margin-left: 3%;
+  height: 275px;
+  width: 200px;
+  border-radius: 50%;
+}
+#name {
+  font-family: "Playfair Display", serif;
+}
 @media screen and (max-width: 768px) {
-    .row {
-        margin-right: 5%;
-    }
-   
-    }
+  .row {
+    margin-right: 5%;
+  }
+}

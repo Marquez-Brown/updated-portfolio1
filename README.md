@@ -20,7 +20,7 @@ https://github.com/Marquez-Brown/mb-portfolio
 
 ## Recent changes 
 
-12-5-2020
+1-4-2021
 Added Read.ME
 Updated Read.me
 
@@ -28,9 +28,8 @@ Updated Read.me
 
 To help with refactoring the code, please ask for a clone of the repo, make the changes along with comments and for overview and permission to push.
 
-![imageofsite](./assets/images/siteaboutme.png)
-![imageofsite](./assets/images/siteportfolio.png)
-![imageofsite](./assets/images/sitecontact.png)
+![imageofsite](./images/siteaboutme.png)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 MIT License
 Copyright (c) [2020] [(MB inc.) Georgia Tech Bootcamp Project]
@@ -53,5 +52,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-## Credits
-William Miller:  For his extensive expertise and time helping me figure out how bootstrap works.
